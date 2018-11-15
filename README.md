@@ -14,7 +14,7 @@ Flask starter project... https://cloud.docker.com
 Update *skeleton/server/config.py*, and then run:
 
 ```sh
-$ export APP_SETTINGS="skeleton.server.config.DevelopmentConfig"
+$ export APP_SETTINGS="skeleton.server.config.DevelopmentConfig"  xuzhiyuantest
 ```
 
 or
